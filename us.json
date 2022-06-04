@@ -1,19 +1,19 @@
 [
   {
-    "StartDate": "9999-12-31T23:59:59.9999999",
-    "Folder": "data005"
+    "startDate": "9999-12-31T23:59:59.9999999",
+    "folder": "data005"
   },
   {
-    "StartDate": "2022-06-15T15:00:00",
-    "Folder": "data004"
+    "startDate": "2022-06-15T15:00:00",
+    "folder": "data004"
   },
   {
-    "StartDate": "2022-06-01T12:00:00",
-    "Folder": "data003"
+    "startDate": "2022-06-01T12:00:00",
+    "folder": "data003"
   },
   {
-    "StartDate": "2022-04-01T12:00:00",
-    "Folder": "data001"
+    "startDate": "2022-04-01T12:00:00",
+    "folder": "data001"
   }
 ]
 
