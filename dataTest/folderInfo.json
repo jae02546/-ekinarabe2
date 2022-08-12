@@ -253,16 +253,16 @@
   },
   {
     "fNo": 9000000,
-    "name": "その他",
-    "kana": "そのた",
-    "english": "Others",
+    "name": "過去の路線",
+    "kana": "かこのろせん",
+    "english": "past route",
     "info1": "",
     "info2": "",
     "info3": ""
   },
   {
     "fNo": 9010000,
-    "name": "1964年_北海道",
+    "name": "北海道（1964年10月）",
     "kana": "ほっかいどう",
     "english": "JTB時刻表（復刻版）1964年10月号より",
     "info1": "",
