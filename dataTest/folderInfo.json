@@ -1,0 +1,272 @@
+[
+  {
+    "fNo": 1000000,
+    "name": "北海道",
+    "kana": "ほっかいどう",
+    "english": "Hokkaido",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 1010000,
+    "name": "JR",
+    "kana": "じぇいあーる",
+    "english": "JR",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 1020000,
+    "name": "その他",
+    "kana": "そのた",
+    "english": "Others",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 2000000,
+    "name": "東北",
+    "kana": "とうほく",
+    "english": "Tohoku",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 2010000,
+    "name": "JR",
+    "kana": "じぇいあーる",
+    "english": "JR",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 2020000,
+    "name": "その他",
+    "kana": "そのた",
+    "english": "Others",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 3000000,
+    "name": "関東",
+    "kana": "かんとう",
+    "english": "Kanto",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 3010000,
+    "name": "JR",
+    "kana": "じぇいあーる",
+    "english": "JR",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 3020000,
+    "name": "大手私鉄",
+    "kana": "おおてしてつ",
+    "english": "Major private railway companies",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 3030000,
+    "name": "その他",
+    "kana": "そのた",
+    "english": "Others",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 4000000,
+    "name": "中部",
+    "kana": "ちゅうぶ",
+    "english": "Chubu",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 4010000,
+    "name": "JR",
+    "kana": "じぇいあーる",
+    "english": "JR",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 4020000,
+    "name": "大手私鉄",
+    "kana": "おおてしてつ",
+    "english": "Major private railway companies",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 4030000,
+    "name": "その他",
+    "kana": "そのた",
+    "english": "Others",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 5000000,
+    "name": "近畿",
+    "kana": "きんき",
+    "english": "Kinki",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 5010000,
+    "name": "JR",
+    "kana": "じぇいあーる",
+    "english": "JR",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 5020000,
+    "name": "大手私鉄",
+    "kana": "おおてしてつ",
+    "english": "Major private railway companies",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 5030000,
+    "name": "その他",
+    "kana": "そのた",
+    "english": "Others",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 6000000,
+    "name": "中国",
+    "kana": "ちゅうごく",
+    "english": "Chugoku",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 6010000,
+    "name": "JR",
+    "kana": "じぇいあーる",
+    "english": "JR",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 6020000,
+    "name": "その他",
+    "kana": "そのた",
+    "english": "Others",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 7000000,
+    "name": "四国",
+    "kana": "しこく",
+    "english": "Shikoku",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 7010000,
+    "name": "JR",
+    "kana": "じぇいあーる",
+    "english": "JR",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 7020000,
+    "name": "その他",
+    "kana": "そのた",
+    "english": "Others",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 8000000,
+    "name": "九州・沖縄",
+    "kana": "きゅうしゅう・おきなわ",
+    "english": "Kyushu-Okinawa",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 8010000,
+    "name": "JR",
+    "kana": "じぇいあーる",
+    "english": "JR",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 8020000,
+    "name": "大手私鉄",
+    "kana": "おおてしてつ",
+    "english": "Major private railway companies",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 8030000,
+    "name": "その他",
+    "kana": "そのた",
+    "english": "Others",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 9000000,
+    "name": "その他",
+    "kana": "そのた",
+    "english": "Others",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  },
+  {
+    "fNo": 9010000,
+    "name": "1964年_北海道",
+    "kana": "",
+    "english": "",
+    "info1": "",
+    "info2": "",
+    "info3": ""
+  }
+]
